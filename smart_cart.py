@@ -80,28 +80,3 @@ class Store():
 
 s1=Store()
 s1.run()            
-
-
-
-
-
-              
-
-
-
-
-
-# s1=Store()
-# s1.ViewProducts()
-# s1.view_cart()
-# s1.add_Products()
-# s1.view_cart()
-# s1.add_Products()
-# s1.remove_product()
-# s1.view_cart()
-# s1.checkout()
-# s1.run()
-
-
-# p1 = Product(1,"iphone",120000)
-# print(p1.name)
